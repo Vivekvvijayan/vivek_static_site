@@ -19,7 +19,7 @@ bar.onclick = () => {
 
     if(ul.classList.contains('toggle'))
     {
-        bar.src = '.Images/close bar.png'
+        bar.src = '/Images/close.png'
         bar.style.borderRadius = '50%';
         
     }
